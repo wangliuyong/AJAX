@@ -1,3 +1,7 @@
 {
-    "git.ignoreLimitWarning": true
+    "git.ignoreLimitWarning": true,
+    "files.autoSave": "onWindowChange",
+    "zenMode.hideActivityBar": true,
+    "terminal.integrated.copyOnSelection": true,
+
 }
