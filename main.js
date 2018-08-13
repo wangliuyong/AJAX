@@ -5,7 +5,7 @@ button.addEventListener('click',()=>{
     
     let request=new XMLHttpRequest();//s=声明一个请求对象
      
-    request.open('GET', '/xxx') //配置这个请求1.方式2.路径3.是否异步，默认异步。4.
+    request.open('GET', '/xxx') //配置这个请求1.方式2.路径3.是否异步，默认异步。
     //open之后readystate已经变成了1
     request.setRequestHeader('wang','18')
     request.setRequestHeader('Content-Type','text/html')
